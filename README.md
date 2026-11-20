@@ -2,8 +2,8 @@
 
 ExxonMobil Innothon 2026 submission.
 
-- Dashboard: https://YOUR-APP-NAME.streamlit.app
-- Repository: https://github.com/YOUR-USERNAME/innothon-india-2047
+- Dashboard: https://india2047-innothon.streamlit.app
+- Repository: https://github.com/shivam-hake/innothon-india-2047
 
 ## What we did
 
