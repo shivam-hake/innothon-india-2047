@@ -1,0 +1,16 @@
+origin,model,horizon,MAPE
+2013,M1 Econometric (per capita),4,2.2114590621826387
+2013,M2 Intensity (decomposition),4,2.3026583812238544
+2013,M3 Time-series ARIMAX,4,2.2480736967346453
+2015,M1 Econometric (per capita),4,4.886695629889509
+2015,M2 Intensity (decomposition),4,5.716422257282994
+2015,M3 Time-series ARIMAX,4,5.02266799917595
+2017,M1 Econometric (per capita),4,6.8830848645394624
+2017,M2 Intensity (decomposition),4,4.504481660883402
+2017,M3 Time-series ARIMAX,4,6.944130817350297
+2019,M1 Econometric (per capita),4,3.9701168092337284
+2019,M2 Intensity (decomposition),4,3.778998363637187
+2019,M3 Time-series ARIMAX,4,3.5768571463709624
+2021,M1 Econometric (per capita),3,4.765176367707905
+2021,M2 Intensity (decomposition),3,8.519053208586199
+2021,M3 Time-series ARIMAX,3,8.137702341252195

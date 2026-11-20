@@ -1,0 +1,18 @@
+# Data dictionary and sources
+
+**Data policy: National Power Portal (npp.gov.in) + organiser CSV only; no assumed values.** Access dates for the NPP extracts: 2026-11-19 / 2026-11-20. All series are **energy generated** (GWh in raw files, TWh after ingest) unless stated. `tests/test_invariants.py::test_only_permitted_datasets` enforces this list.
+
+| File (data/raw) | Source | Units | Use | Transformations |
+|---|---|---|---|---|
+| `npp_history_national.csv` | NPP Generation Dashboard, "Growth of Electricity Generation of India" – endpoint `https://npp.gov.in/dashBoard/get_generation_chart_list` (key `linechartforGeneration`) | GWh | All-India utility generation by hydro / thermal / RES / nuclear, FY1947–FY2024 (excl. Bhutan import) → **forecast target**, level-1 mix shares | FY label "2023-24" → FY2024; GWh → TWh |
+| `npp_18col_sub2_march_region_fy.csv` | NPP – CEA monthly 18-column generation report, sub-report 2 (region-wise), March issue 2020–2026: `https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//{Y}/MAR/18_col_act-2_{Y}-MAR.xls` (URL per row) | GWh | Region-wise thermal / nuclear / hydro / Bhutan import, full FY2019–FY2026 → consistency check | "FY actual" column of the March issue = full fiscal year; FY2019 from the "previous FY" column of the March-2020 issue |
+| `npp_18col_sub16_march_region_fuel_fy.csv` | NPP – CEA monthly 18-column report, sub-report 16 (region / state / station-wise), March issue 2020–2026: `https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act/{Y}/MAR/18_col_act-16_{Y}-MAR.xls` (URL per row) | GWh | Coal + lignite / gas (incl. liquid fuel) / hydro / nuclear by region, FY2019–FY2026 → regional mix shares, coal/gas split, out-of-sample validation | Sum of each state's 'TOTAL THERMAL / NATURAL GAS / HYDRO / NUCLEAR' rows, column 'APR–MAR ACTUAL'; FY2019 from 'ACTUAL SAME PERIOD' of the 2020 issue |
+| `npp_dgr17_fuelwise_fy.csv` | NPP – CEA Daily Generation Report 17 (fuel-wise), 31 March of 2019 and 2021–2025: `https://npp.gov.in/public-reports/cea/daily/dgr/DD-MM-YYYY/dgr17-YYYY-MM-DD.xls` (URL per row) | GWh | FY cumulative coal / lignite / gas / diesel-naphtha / nuclear / hydro / Bhutan → consistency check | 31-March "FY cumulative actual" columns |
+| `renewable_energy_dataset.csv` | Organiser CSV | persons; ₹ crore; MW | **Population and GSDP** drive the demand forecast. `Installed – *` columns: only their composition (dimensionless shares) is used, to split NPP's single RES total into solar / wind / other and by region; MW values are never saved or used for the level of generation | See `outputs/data_quality_report.md` |
+| `india_states_datta07.geojson` | State boundaries (github.com/datta07/INDIAN-SHAPEFILES) | – | Map display only – no data values | Simplified, dissolved to 5 regions (`src/geo.py`) |
+
+The NPP `.xls` files are binary BIFF8 workbooks; they were parsed in the browser (npp.gov.in is not reachable from the build container) and the relevant cells written to the CSVs above, one row per value, with the source URL of each.
+
+**What NPP does not publish:** RES after FY2024 (→ FY2024 is the base year), a solar / wind / other split and regional RES (→ CSV RE-fleet composition, shares only), urbanisation (→ not modelled separately), captive generation (outside the boundary). No assumed values fill these gaps.
+
+Processed outputs (`data/processed`): `npp_history_national_twh.csv`, `npp_region_fy_conventional.csv`, `npp_region_fuel_fy.csv`, `npp_fuelwise_fy_twh.csv`, `npp_conventional_after_base.csv`, `national_series_fy.csv` (estimation sample FY2007–FY2024), `csv_re_composition.csv` (shares only), `state_panel.csv`, `region_panel.csv`, `mix_region_base.csv`, GeoJSONs. No processed file contains a capacity column (tested).

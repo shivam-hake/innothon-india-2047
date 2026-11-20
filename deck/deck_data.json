@@ -1,0 +1,911 @@
+{
+ "head": {
+  "base_fy": 2024,
+  "gdp_cagr_csv": 5.42234258930705,
+  "gdp_low": 4.415132884694137,
+  "gdp_high": 6.172317687015364,
+  "pop_2047_m": 1600.779066715958,
+  "pop_base_m": 1386.555042,
+  "p50_2047": 4736.826501509014,
+  "p10_2047": 3848.935451481262,
+  "p90_2047": 5769.347469570269,
+  "central_2047": 4771.590732961598,
+  "actual_base": 1698.0300000000009,
+  "growth_x": 2.789601185791188,
+  "cagr_pct": 4.561401681263999,
+  "kwh_pc_2047": 2959.075740056211,
+  "kwh_pc_base": 1224.6394470938003,
+  "p50_2030": 2187.6335969999373,
+  "p50_2035": 2735.785876459136,
+  "p50_2040": 3438.221081642102,
+  "low_2047": 3948.252353348356,
+  "high_2047": 5625.274635380183,
+  "nonfossil_2047": 0.3532336538779939,
+  "nonfossil_base": 0.2187717531492376,
+  "res_2047": 0.2689394607677992,
+  "res_base": 0.111594023662715,
+  "mix_2047": {
+   "Coal": 3037.906395279975,
+   "Gas": 25.71357331489525,
+   "Hydro": 269.671942713235,
+   "Nuclear": 129.61502513445376,
+   "Other RE": 42.069193560568344,
+   "Solar": 1109.6858867647456,
+   "Wind": 122.16448474114092
+  },
+  "mix_base": {
+   "Coal": 1295.2530583485602,
+   "Gas": 31.295941651439872,
+   "Hydro": 134.054,
+   "Nuclear": 47.937000000000005,
+   "Other RE": 19.517141709093444,
+   "Solar": 118.45987817618835,
+   "Wind": 51.51298011471821
+  },
+  "val_2025": 1.045987547269811,
+  "val_2026": 6.858663705240131,
+  "mape_ensemble": 4.692540379874153,
+  "mape_ets": 9.871933338014422,
+  "consistency_max": 0.1306005234652962,
+  "consistency_n": 48,
+  "hist_cagr": 5.616596213787828,
+  "tornado_top": "GDP CAGR (CSV bootstrap P10 / P90)"
+ },
+ "fan": {
+  "years": [
+   2007,
+   2008,
+   2009,
+   2010,
+   2011,
+   2012,
+   2013,
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026,
+   2027,
+   2028,
+   2029,
+   2030,
+   2031,
+   2032,
+   2033,
+   2034,
+   2035,
+   2036,
+   2037,
+   2038,
+   2039,
+   2040,
+   2041,
+   2042,
+   2043,
+   2044,
+   2045,
+   2046,
+   2047
+  ],
+  "actual": [
+   671,
+   723,
+   741,
+   800,
+   845,
+   922,
+   955,
+   1014,
+   1094,
+   1166,
+   1232,
+   1295,
+   1343,
+   1350,
+   1338,
+   1442,
+   1587,
+   1698,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "p10": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   1633,
+   1696,
+   1764,
+   1837,
+   1915,
+   1996,
+   2079,
+   2164,
+   2254,
+   2345,
+   2439,
+   2537,
+   2638,
+   2743,
+   2846,
+   2960,
+   3076,
+   3195,
+   3317,
+   3441,
+   3573,
+   3707,
+   3849
+  ],
+  "p50": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   1792,
+   1858,
+   1931,
+   2011,
+   2096,
+   2188,
+   2287,
+   2390,
+   2500,
+   2615,
+   2736,
+   2861,
+   2995,
+   3138,
+   3284,
+   3438,
+   3602,
+   3770,
+   3945,
+   4131,
+   4325,
+   4525,
+   4737
+  ],
+  "p90": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   1874,
+   1946,
+   2033,
+   2132,
+   2240,
+   2357,
+   2480,
+   2612,
+   2750,
+   2896,
+   3050,
+   3216,
+   3389,
+   3574,
+   3768,
+   3975,
+   4191,
+   4421,
+   4663,
+   4917,
+   5185,
+   5472,
+   5769
+  ],
+  "low": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   1778,
+   1830,
+   1890,
+   1957,
+   2028,
+   2103,
+   2182,
+   2263,
+   2347,
+   2435,
+   2526,
+   2621,
+   2720,
+   2823,
+   2929,
+   3040,
+   3156,
+   3276,
+   3401,
+   3530,
+   3664,
+   3804,
+   3948
+  ],
+  "high": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   1806,
+   1887,
+   1980,
+   2081,
+   2190,
+   2305,
+   2427,
+   2557,
+   2692,
+   2836,
+   2987,
+   3147,
+   3317,
+   3496,
+   3684,
+   3884,
+   4094,
+   4315,
+   4549,
+   4797,
+   5060,
+   5334,
+   5625
+  ]
+ },
+ "waterfall": [
+  {
+   "c": "FY2024 actual",
+   "v": 1698
+  },
+  {
+   "c": "Population (CSV trend)",
+   "v": 427
+  },
+  {
+   "c": "Generation per person (income, CSV GSDP)",
+   "v": 2646
+  },
+  {
+   "c": "FY2047 forecast",
+   "v": 4772
+  }
+ ],
+ "tornado": [
+  {
+   "i": "GDP CAGR (CSV bootstrap P10 / P90)",
+   "lo": -878,
+   "hi": 773,
+   "sw": 1651
+  },
+  {
+   "i": "Model elasticities (-/+1.28 SE)",
+   "lo": -352,
+   "hi": 383,
+   "sw": 735
+  },
+  {
+   "i": "Back-test error (P10 / P90)",
+   "lo": -245,
+   "hi": 305,
+   "sw": 550
+  },
+  {
+   "i": "Model choice (single model min / max)",
+   "lo": -163,
+   "hi": 208,
+   "sw": 370
+  },
+  {
+   "i": "Population trend slope (-/+1.28 SE)",
+   "lo": -1,
+   "hi": 1,
+   "sw": 1
+  }
+ ],
+ "backtest": [
+  {
+   "m": "M1 Econometric (per capita)",
+   "mape": 4.93
+  },
+  {
+   "m": "M2 Intensity (decomposition)",
+   "mape": 4.38
+  },
+  {
+   "m": "M3 Time-series ARIMAX",
+   "mape": 4.81
+  },
+  {
+   "m": "ETS (history only, reference)",
+   "mape": 9.87
+  },
+  {
+   "m": "Ensemble",
+   "mape": 4.69
+  }
+ ],
+ "validation": [
+  {
+   "fy": 2025,
+   "actual": 1569,
+   "forecast": 1586,
+   "diff": 1.0
+  },
+  {
+   "fy": 2026,
+   "actual": 1530,
+   "forecast": 1634,
+   "diff": 6.9
+  }
+ ],
+ "selection": [
+  {
+   "p": "L1 national sources (NPP)",
+   "f": "const",
+   "a": 1,
+   "mae": 1.42,
+   "w": 0.33
+  },
+  {
+   "p": "L1 national sources (NPP)",
+   "f": "logit",
+   "a": 2007,
+   "mae": 1.23,
+   "w": 0.38
+  },
+  {
+   "p": "L1 national sources (NPP)",
+   "f": "incr",
+   "a": 10,
+   "mae": 1.66,
+   "w": 0.28
+  },
+  {
+   "p": "L2a coal vs gas (NPP sub-16)",
+   "f": "const",
+   "a": 1,
+   "mae": 1.07,
+   "w": 0.4
+  },
+  {
+   "p": "L2a coal vs gas (NPP sub-16)",
+   "f": "logit",
+   "a": 2019,
+   "mae": 0.7,
+   "w": 0.6
+  },
+  {
+   "p": "L2b solar/wind/other in RES (CSV composition)",
+   "f": "const",
+   "a": 1,
+   "mae": 8.45,
+   "w": 0.15
+  },
+  {
+   "p": "L2b solar/wind/other in RES (CSV composition)",
+   "f": "logit",
+   "a": 2016,
+   "mae": 10.3,
+   "w": 0.12
+  },
+  {
+   "p": "L2b solar/wind/other in RES (CSV composition)",
+   "f": "incr",
+   "a": 3,
+   "mae": 1.68,
+   "w": 0.73
+  },
+  {
+   "p": "L3 regional share of Coal (NPP sub-16)",
+   "f": "const",
+   "a": 3,
+   "mae": 0.69,
+   "w": 0.71
+  },
+  {
+   "p": "L3 regional share of Coal (NPP sub-16)",
+   "f": "logit",
+   "a": 2019,
+   "mae": 1.72,
+   "w": 0.29
+  },
+  {
+   "p": "L3 regional share of Gas (NPP sub-16)",
+   "f": "const",
+   "a": 3,
+   "mae": 2.49,
+   "w": 0.8
+  },
+  {
+   "p": "L3 regional share of Gas (NPP sub-16)",
+   "f": "logit",
+   "a": 2019,
+   "mae": 9.85,
+   "w": 0.2
+  },
+  {
+   "p": "L3 regional share of Hydro (NPP sub-16)",
+   "f": "const",
+   "a": 1,
+   "mae": 2.44,
+   "w": 0.56
+  },
+  {
+   "p": "L3 regional share of Hydro (NPP sub-16)",
+   "f": "logit",
+   "a": 2019,
+   "mae": 3.14,
+   "w": 0.44
+  },
+  {
+   "p": "L3 regional share of Nuclear (NPP sub-16)",
+   "f": "const",
+   "a": 3,
+   "mae": 3.54,
+   "w": 0.63
+  },
+  {
+   "p": "L3 regional share of Nuclear (NPP sub-16)",
+   "f": "logit",
+   "a": 2019,
+   "mae": 5.97,
+   "w": 0.37
+  },
+  {
+   "p": "L3 regional share of Solar (CSV composition)",
+   "f": "const",
+   "a": 3,
+   "mae": 4.04,
+   "w": 0.76
+  },
+  {
+   "p": "L3 regional share of Solar (CSV composition)",
+   "f": "logit",
+   "a": 2016,
+   "mae": 12.81,
+   "w": 0.24
+  },
+  {
+   "p": "L3 regional share of Wind (CSV composition)",
+   "f": "const",
+   "a": 3,
+   "mae": 1.33,
+   "w": 0.35
+  },
+  {
+   "p": "L3 regional share of Wind (CSV composition)",
+   "f": "logit",
+   "a": 2012,
+   "mae": 0.73,
+   "w": 0.65
+  },
+  {
+   "p": "L3 regional share of Other RE (CSV composition)",
+   "f": "const",
+   "a": 1,
+   "mae": 0.31,
+   "w": 0.75
+  },
+  {
+   "p": "L3 regional share of Other RE (CSV composition)",
+   "f": "logit",
+   "a": 2012,
+   "mae": 0.94,
+   "w": 0.25
+  }
+ ],
+ "mix47": {
+  "NR": {
+   "Coal": 691.1,
+   "Gas": 4.9,
+   "Nuclear": 21.0,
+   "Hydro": 113.9,
+   "Solar": 305.9,
+   "Wind": 9.4,
+   "Other RE": 13.3
+  },
+  "WR": {
+   "Coal": 1094.3,
+   "Gas": 8.8,
+   "Nuclear": 56.2,
+   "Hydro": 57.9,
+   "Solar": 350.6,
+   "Wind": 62.2,
+   "Other RE": 11.3
+  },
+  "SR": {
+   "Coal": 552.2,
+   "Gas": 1.6,
+   "Nuclear": 52.4,
+   "Hydro": 63.2,
+   "Solar": 401.1,
+   "Wind": 50.3,
+   "Other RE": 13.9
+  },
+  "ER": {
+   "Coal": 687.6,
+   "Gas": 0.0,
+   "Nuclear": 0.0,
+   "Hydro": 12.6,
+   "Solar": 15.6,
+   "Wind": 0.3,
+   "Other RE": 2.4
+  },
+  "NER": {
+   "Coal": 12.6,
+   "Gas": 10.4,
+   "Nuclear": 0.0,
+   "Hydro": 22.0,
+   "Solar": 36.5,
+   "Wind": 0.0,
+   "Other RE": 1.1
+  }
+ },
+ "mixbase": {
+  "NR": {
+   "Coal": 273.5,
+   "Gas": 7.3,
+   "Nuclear": 9.9,
+   "Hydro": 73.1,
+   "Solar": 23.7,
+   "Wind": 5.5,
+   "Other RE": 6.1
+  },
+  "WR": {
+   "Coal": 520.6,
+   "Gas": 12.2,
+   "Nuclear": 15.7,
+   "Hydro": 16.6,
+   "Solar": 48.2,
+   "Wind": 22.1,
+   "Other RE": 4.8
+  },
+  "SR": {
+   "Coal": 246.1,
+   "Gas": 2.1,
+   "Nuclear": 22.3,
+   "Hydro": 20.3,
+   "Solar": 44.9,
+   "Wind": 23.8,
+   "Other RE": 7.0
+  },
+  "ER": {
+   "Coal": 250.0,
+   "Gas": 0.0,
+   "Nuclear": 0.0,
+   "Hydro": 17.8,
+   "Solar": 1.4,
+   "Wind": 0.1,
+   "Other RE": 1.0
+  },
+  "NER": {
+   "Coal": 5.1,
+   "Gas": 9.7,
+   "Nuclear": 0.0,
+   "Hydro": 6.3,
+   "Solar": 0.3,
+   "Wind": 0.0,
+   "Other RE": 0.6
+  }
+ },
+ "anchor": {
+  "ER": "Coal",
+  "NER": "Gas",
+  "NR": "Hydro",
+  "SR": "Wind",
+  "WR": "Wind"
+ },
+ "nat_path": {
+  "2024": {
+   "Coal": 1295,
+   "Gas": 31,
+   "Nuclear": 48,
+   "Hydro": 134,
+   "Solar": 118,
+   "Wind": 52,
+   "Other RE": 20
+  },
+  "2030": {
+   "Coal": 1619,
+   "Gas": 23,
+   "Nuclear": 66,
+   "Hydro": 169,
+   "Solar": 229,
+   "Wind": 59,
+   "Other RE": 22
+  },
+  "2035": {
+   "Coal": 1965,
+   "Gas": 22,
+   "Nuclear": 81,
+   "Hydro": 192,
+   "Solar": 382,
+   "Wind": 69,
+   "Other RE": 25
+  },
+  "2040": {
+   "Coal": 2371,
+   "Gas": 22,
+   "Nuclear": 100,
+   "Hydro": 220,
+   "Solar": 610,
+   "Wind": 85,
+   "Other RE": 30
+  },
+  "2047": {
+   "Coal": 3038,
+   "Gas": 26,
+   "Nuclear": 130,
+   "Hydro": 270,
+   "Solar": 1110,
+   "Wind": 122,
+   "Other RE": 42
+  }
+ },
+ "req": {
+  "NR": {
+   "p10": 977,
+   "p50": 1203,
+   "p90": 1468,
+   "yb": 456
+  },
+  "WR": {
+   "p10": 891,
+   "p50": 1096,
+   "p90": 1338,
+   "yb": 453
+  },
+  "SR": {
+   "p10": 1207,
+   "p50": 1483,
+   "p90": 1810,
+   "yb": 495
+  },
+  "ER": {
+   "p10": 623,
+   "p50": 767,
+   "p90": 934,
+   "yb": 243
+  },
+  "NER": {
+   "p10": 153,
+   "p50": 189,
+   "p90": 231,
+   "yb": 52
+  }
+ },
+ "kpi_region": {
+  "NR": {
+   "nonfossil_share": 0.4,
+   "res_share": 0.283,
+   "net_export_twh": -43.428,
+   "generation_twh": 1159.52,
+   "requirement_twh": 1202.949
+  },
+  "WR": {
+   "nonfossil_share": 0.328,
+   "res_share": 0.258,
+   "net_export_twh": 545.563,
+   "generation_twh": 1641.355,
+   "requirement_twh": 1095.792
+  },
+  "SR": {
+   "nonfossil_share": 0.512,
+   "res_share": 0.41,
+   "net_export_twh": -347.763,
+   "generation_twh": 1134.772,
+   "requirement_twh": 1482.535
+  },
+  "ER": {
+   "nonfossil_share": 0.043,
+   "res_share": 0.025,
+   "net_export_twh": -48.236,
+   "generation_twh": 718.484,
+   "requirement_twh": 766.72
+  },
+  "NER": {
+   "nonfossil_share": 0.721,
+   "res_share": 0.455,
+   "net_export_twh": -106.136,
+   "generation_twh": 82.696,
+   "requirement_twh": 188.832
+  }
+ },
+ "nf_path": {
+  "2024": 0.219,
+  "2030": 0.249,
+  "2035": 0.274,
+  "2040": 0.304,
+  "2047": 0.353
+ },
+ "summary": {
+  "M1 Econometric (per capita)": {
+   "alpha": -2.9752365575200628,
+   "beta_lny": 0.8586704271963672,
+   "se_lny": 0.04096009833775078,
+   "gamma_covid": -0.05793428990374849,
+   "elasticity_last": 0.8586704271963672,
+   "r2": 0.9793105475919114,
+   "dw": 1.033824217900735,
+   "n": 18,
+   "sample": "FY2007-FY2024",
+   "quadratic_test": {
+    "b2": -0.05623198893530201,
+    "se_b2": 0.17465905425134615,
+    "t_b2": -0.32195289947225064
+   },
+   "resid_ar1": 0.4770858532394432
+  },
+  "M2 Intensity (decomposition)": {
+   "a": -9.131484507965496,
+   "c": -0.00603066210895653,
+   "se_c": 0.0021671612715677595,
+   "r2": 0.5439651892155073,
+   "n": 18,
+   "implied_elasticity_note": "G grows at GDP growth + c",
+   "sample": "FY2007-FY2024"
+  },
+  "M3 Time-series ARIMAX": {
+   "const": -7.3794730035264555,
+   "b_gdp": 0.8887817647343614,
+   "se_gdp": 0.07177975076804152,
+   "phi": 0.6879248308828757,
+   "sigma": 0.025026043455494675,
+   "aic": -71.03507468032979,
+   "n": 18
+  },
+  "weights": {
+   "M1 Econometric (per capita)": 0.3171735931149246,
+   "M2 Intensity (decomposition)": 0.3573113489246699,
+   "M3 Time-series ARIMAX": 0.3255150579604056
+  },
+  "cv_mean_mape": {
+   "M1 Econometric (per capita)": 4.543306546711151,
+   "M2 Intensity (decomposition)": 4.964322774322708,
+   "M3 Time-series ARIMAX": 5.1868759508637385
+  },
+  "drivers": {
+   "pop_a": 67.17802024214743,
+   "pop_b": -0.03550002008655592,
+   "pop_se_b": 0.0014537328077546842,
+   "pop_decay": -0.03487728515599112,
+   "pop_growth_base": 0.009083379602560893,
+   "gdp_cagr": 0.0542234258930705,
+   "gdp_growth_obs": {
+    "2013": 0.0584,
+    "2014": 0.02512,
+    "2015": 0.10452,
+    "2016": 0.08587,
+    "2017": 0.09288,
+    "2018": 0.0696,
+    "2019": 0.06392,
+    "2020": 0.05256,
+    "2021": -0.02879,
+    "2022": 0.05177,
+    "2023": 0.0419,
+    "2024": 0.03946,
+    "2025": 0.03946
+   },
+   "gdp_boot_p10": 0.044151328846941375,
+   "gdp_boot_p50": 0.05339990637669656,
+   "gdp_boot_p90": 0.06172317687015364
+  },
+  "scenario_cagr": {
+   "low": 0.044151328846941375,
+   "base": 0.0542234258930705,
+   "high": 0.06172317687015364
+  }
+ },
+ "tech_colors": {
+  "Coal": "3A3A3A",
+  "Gas": "F28C28",
+  "Nuclear": "7B3FA0",
+  "Hydro": "1F6FD1",
+  "Solar": "F5B700",
+  "Wind": "14A39A",
+  "Other RE": "3BA55C"
+ },
+ "fig_dir": "/home/claude/innothon-india-2047/outputs/figures"
+}

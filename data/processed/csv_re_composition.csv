@@ -1,0 +1,362 @@
+FY,kind,region,tech,share,provisional
+2007,tech_share_of_national_RE,India,Solar,0.00020662310281310988,False
+2008,tech_share_of_national_RE,India,Solar,0.00017173564704718,False
+2009,tech_share_of_national_RE,India,Solar,0.00014953165556934884,False
+2010,tech_share_of_national_RE,India,Solar,0.0006103844770338395,False
+2011,tech_share_of_national_RE,India,Solar,0.001766460370227982,False
+2012,tech_share_of_national_RE,India,Solar,0.03791567705530329,False
+2013,tech_share_of_national_RE,India,Solar,0.06027608376555229,False
+2014,tech_share_of_national_RE,India,Solar,0.0834300713414404,False
+2015,tech_share_of_national_RE,India,Solar,0.10497763139591756,False
+2016,tech_share_of_national_RE,India,Solar,0.15704046125725463,False
+2017,tech_share_of_national_RE,India,Solar,0.21413156243027456,False
+2018,tech_share_of_national_RE,India,Solar,0.3107395648206104,False
+2019,tech_share_of_national_RE,India,Solar,0.3596881018318295,False
+2020,tech_share_of_national_RE,India,Solar,0.3975102492220678,False
+2021,tech_share_of_national_RE,India,Solar,0.4299010522310187,False
+2022,tech_share_of_national_RE,India,Solar,0.4909864651472008,False
+2023,tech_share_of_national_RE,India,Solar,0.4885135972438949,False
+2024,tech_share_of_national_RE,India,Solar,0.6251510801424263,False
+2025,tech_share_of_national_RE,India,Solar,0.6391067681501771,True
+2007,region_share_of_tech,ER,Solar,0.07109004739336494,False
+2007,region_share_of_tech,NER,Solar,0.009478672985781991,False
+2007,region_share_of_tech,NR,Solar,0.4265402843601896,False
+2007,region_share_of_tech,SR,Solar,0.44549763033175355,False
+2007,region_share_of_tech,WR,Solar,0.047393364928909956,False
+2008,region_share_of_tech,ER,Solar,0.07075471698113209,False
+2008,region_share_of_tech,NER,Solar,0.009433962264150943,False
+2008,region_share_of_tech,NR,Solar,0.42452830188679247,False
+2008,region_share_of_tech,SR,Solar,0.44811320754716977,False
+2008,region_share_of_tech,WR,Solar,0.04716981132075472,False
+2009,region_share_of_tech,ER,Solar,0.07075471698113209,False
+2009,region_share_of_tech,NER,Solar,0.009433962264150943,False
+2009,region_share_of_tech,NR,Solar,0.42452830188679247,False
+2009,region_share_of_tech,SR,Solar,0.44811320754716977,False
+2009,region_share_of_tech,WR,Solar,0.04716981132075472,False
+2010,region_share_of_tech,ER,Solar,0.12135922330097089,False
+2010,region_share_of_tech,NER,Solar,0.002912621359223301,False
+2010,region_share_of_tech,NR,Solar,0.19029126213592237,False
+2010,region_share_of_tech,SR,Solar,0.6757281553398059,False
+2010,region_share_of_tech,WR,Solar,0.00970873786407767,False
+2011,region_share_of_tech,ER,Solar,0.03556187766714082,False
+2011,region_share_of_tech,NER,Solar,0.0008534850640113796,False
+2011,region_share_of_tech,NR,Solar,0.2859174964438122,False
+2011,region_share_of_tech,SR,Solar,0.4187766714082504,False
+2011,region_share_of_tech,WR,Solar,0.2588904694167852,False
+2012,region_share_of_tech,ER,Solar,0.02024988313288853,False
+2012,region_share_of_tech,NER,Solar,3.187284858272066e-05,False
+2012,region_share_of_tech,NR,Solar,0.2589562704517445,False
+2012,region_share_of_tech,SR,Solar,0.05038034932642044,False
+2012,region_share_of_tech,WR,Solar,0.6703816242403637,False
+2013,region_share_of_tech,ER,Solar,0.021445224210857275,False
+2013,region_share_of_tech,NER,Solar,1.7796866565026784e-05,False
+2013,region_share_of_tech,NR,Solar,0.3529830514507412,False
+2013,region_share_of_tech,SR,Solar,0.03278776050163434,False
+2013,region_share_of_tech,WR,Solar,0.5927661669702021,False
+2014,region_share_of_tech,ER,Solar,0.022290718091777708,False
+2014,region_share_of_tech,NER,Solar,1.140190183722645e-05,False
+2014,region_share_of_tech,NR,Solar,0.30045151531275416,False
+2014,region_share_of_tech,SR,Solar,0.09958041001239007,False
+2014,region_share_of_tech,WR,Solar,0.5776659546812409,False
+2015,region_share_of_tech,ER,Solar,0.01604776661679846,False
+2015,region_share_of_tech,NER,Solar,0.0013437700363325496,False
+2015,region_share_of_tech,NR,Solar,0.3276341098525326,False
+2015,region_share_of_tech,SR,Solar,0.14017952553964522,False
+2015,region_share_of_tech,WR,Solar,0.5147948279546911,False
+2016,region_share_of_tech,ER,Solar,0.015085306302756783,False
+2016,region_share_of_tech,NER,Solar,0.000801425552491135,False
+2016,region_share_of_tech,NR,Solar,0.2831584225796053,False
+2016,region_share_of_tech,SR,Solar,0.3465247680790859,False
+2016,region_share_of_tech,WR,Solar,0.35443007748606087,False
+2017,region_share_of_tech,ER,Solar,0.019964656067852492,False
+2017,region_share_of_tech,NER,Solar,0.0014553383825444519,False
+2017,region_share_of_tech,NR,Solar,0.2716015024854528,False
+2017,region_share_of_tech,SR,Solar,0.48693019368769486,False
+2017,region_share_of_tech,WR,Solar,0.22004830937645542,False
+2018,region_share_of_tech,ER,Solar,0.013476518355788034,False
+2018,region_share_of_tech,NER,Solar,0.0011189989004137199,False
+2018,region_share_of_tech,NR,Solar,0.2082969539287677,False
+2018,region_share_of_tech,SR,Solar,0.5753646452736509,False
+2018,region_share_of_tech,WR,Solar,0.20174288354137962,False
+2019,region_share_of_tech,ER,Solar,0.023430458957457857,False
+2019,region_share_of_tech,NER,Solar,0.0013472638186868403,False
+2019,region_share_of_tech,NR,Solar,0.20677303682639475,False
+2019,region_share_of_tech,SR,Solar,0.5500923624984819,False
+2019,region_share_of_tech,WR,Solar,0.21835687789897867,False
+2020,region_share_of_tech,ER,Solar,0.02064966404161549,False
+2020,region_share_of_tech,NER,Solar,0.001851022324976519,False
+2020,region_share_of_tech,NR,Solar,0.2313731666787082,False
+2020,region_share_of_tech,SR,Solar,0.5367551477494401,False
+2020,region_share_of_tech,WR,Solar,0.20937099920525976,False
+2021,region_share_of_tech,ER,Solar,0.021136711629602623,False
+2021,region_share_of_tech,NER,Solar,0.0024403937294932556,False
+2021,region_share_of_tech,NR,Solar,0.24132628508931828,False
+2021,region_share_of_tech,SR,Solar,0.49712990642848465,False
+2021,region_share_of_tech,WR,Solar,0.23796670312310123,False
+2022,region_share_of_tech,ER,Solar,0.017267859312665626,False
+2022,region_share_of_tech,NER,Solar,0.0031796472891837263,False
+2022,region_share_of_tech,NR,Solar,0.33003625799665526,False
+2022,region_share_of_tech,SR,Solar,0.4071093128975139,False
+2022,region_share_of_tech,WR,Solar,0.24240692250398146,False
+2023,region_share_of_tech,ER,Solar,0.017367620472615104,False
+2023,region_share_of_tech,NER,Solar,0.0037043098648448206,False
+2023,region_share_of_tech,NR,Solar,0.33152456561869353,False
+2023,region_share_of_tech,SR,Solar,0.40576248066691095,False
+2023,region_share_of_tech,WR,Solar,0.24164102337693577,False
+2024,region_share_of_tech,ER,Solar,0.011914246305415923,False
+2024,region_share_of_tech,NER,Solar,0.002375279258565017,False
+2024,region_share_of_tech,NR,Solar,0.19982439649888808,False
+2024,region_share_of_tech,SR,Solar,0.3792701444671148,False
+2024,region_share_of_tech,WR,Solar,0.4066159334700162,False
+2025,region_share_of_tech,ER,Solar,0.009966968973983454,True
+2025,region_share_of_tech,NER,Solar,0.00220935105511896,True
+2025,region_share_of_tech,NR,Solar,0.18423331429922743,True
+2025,region_share_of_tech,SR,Solar,0.3532176007617739,True
+2025,region_share_of_tech,WR,Solar,0.45037276490989625,True
+2007,tech_share_of_national_RE,India,Wind,0.6946835190166699,False
+2008,tech_share_of_national_RE,India,Wind,0.7094140355900821,False
+2009,tech_share_of_national_RE,India,Wind,0.7224283376594063,False
+2010,tech_share_of_national_RE,India,Wind,0.7069348565685369,False
+2011,tech_share_of_national_RE,India,Wind,0.7114010819883861,False
+2012,tech_share_of_national_RE,India,Wind,0.6990117851031398,False
+2013,tech_share_of_national_RE,India,Wind,0.681079090257329,False
+2014,tech_share_of_national_RE,India,Wind,0.6700717599954593,False
+2015,tech_share_of_national_RE,India,Wind,0.6573722162642411,False
+2016,tech_share_of_national_RE,India,Wind,0.6295708724134141,False
+2017,tech_share_of_national_RE,India,Wind,0.5656991001352576,False
+2018,tech_share_of_national_RE,India,Wind,0.49034736391272515,False
+2019,tech_share_of_national_RE,India,Wind,0.45498352198979664,False
+2020,tech_share_of_national_RE,India,Wind,0.4335472343039886,False
+2021,tech_share_of_national_RE,India,Wind,0.41002550777588553,False
+2022,tech_share_of_national_RE,India,Wind,0.3675500540168134,False
+2023,tech_share_of_national_RE,India,Wind,0.369528509577936,False
+2024,tech_share_of_national_RE,India,Wind,0.27185065235483785,False
+2025,tech_share_of_national_RE,India,Wind,0.26543396013974274,True
+2007,region_share_of_tech,ER,Wind,0.0006061468933562072,False
+2007,region_share_of_tech,NER,Wind,0.0,False
+2007,region_share_of_tech,NR,Wind,0.06622507220901072,False
+2007,region_share_of_tech,SR,Wind,0.6256408593753303,False
+2007,region_share_of_tech,WR,Wind,0.3075279215223026,False
+2008,region_share_of_tech,ER,Wind,0.0004910133144540619,False
+2008,region_share_of_tech,NER,Wind,0.0,False
+2008,region_share_of_tech,NR,Wind,0.061525110192522894,False
+2008,region_share_of_tech,SR,Wind,0.5729782812250211,False
+2008,region_share_of_tech,WR,Wind,0.3650055952680019,False
+2009,region_share_of_tech,ER,Wind,0.0004198275777901449,False
+2009,region_share_of_tech,NER,Wind,0.0,False
+2009,region_share_of_tech,NR,Wind,0.07209318219540534,False
+2009,region_share_of_tech,SR,Wind,0.5644630600548705,False
+2009,region_share_of_tech,WR,Wind,0.3630239301719341,False
+2010,region_share_of_tech,ER,Wind,0.00036045853678982334,False
+2010,region_share_of_tech,NER,Wind,0.011408931827231385,False
+2010,region_share_of_tech,NR,Wind,0.09122954083450342,False
+2010,region_share_of_tech,SR,Wind,0.5473747301800197,False
+2010,region_share_of_tech,WR,Wind,0.3496263386214557,False
+2011,region_share_of_tech,ER,Wind,0.00030376134248384943,False
+2011,region_share_of_tech,NER,Wind,0.0,False
+2011,region_share_of_tech,NR,Wind,0.10772931332276056,False
+2011,region_share_of_tech,SR,Wind,0.5550687524945518,False
+2011,region_share_of_tech,WR,Wind,0.3368981728402039,False
+2012,region_share_of_tech,ER,Wind,0.0002478006253796248,False
+2012,region_share_of_tech,NER,Wind,0.0,False
+2012,region_share_of_tech,NR,Wind,0.11932752673077211,False
+2012,region_share_of_tech,SR,Wind,0.5302777787382453,False
+2012,region_share_of_tech,WR,Wind,0.350146893905603,False
+2013,region_share_of_tech,ER,Wind,0.0,False
+2013,region_share_of_tech,NER,Wind,0.0,False
+2013,region_share_of_tech,NR,Wind,0.14094752183527623,False
+2013,region_share_of_tech,SR,Wind,0.5134665745444466,False
+2013,region_share_of_tech,WR,Wind,0.34558590362027725,False
+2014,region_share_of_tech,ER,Wind,0.0,False
+2014,region_share_of_tech,NER,Wind,0.0,False
+2014,region_share_of_tech,NR,Wind,0.13178529346349868,False
+2014,region_share_of_tech,SR,Wind,0.49068005546064986,False
+2014,region_share_of_tech,WR,Wind,0.3775346510758515,False
+2015,region_share_of_tech,ER,Wind,0.0,False
+2015,region_share_of_tech,NER,Wind,0.0,False
+2015,region_share_of_tech,NR,Wind,0.14116894197952218,False
+2015,region_share_of_tech,SR,Wind,0.4761092150170648,False
+2015,region_share_of_tech,WR,Wind,0.38272184300341294,False
+2016,region_share_of_tech,ER,Wind,0.0,False
+2016,region_share_of_tech,NER,Wind,0.0,False
+2016,region_share_of_tech,NR,Wind,0.14868202198168737,False
+2016,region_share_of_tech,SR,Wind,0.44804924064750823,False
+2016,region_share_of_tech,WR,Wind,0.4032687373708043,False
+2017,region_share_of_tech,ER,Wind,0.0,False
+2017,region_share_of_tech,NER,Wind,0.0,False
+2017,region_share_of_tech,NR,Wind,0.1326617397051073,False
+2017,region_share_of_tech,SR,Wind,0.4766471255104883,False
+2017,region_share_of_tech,WR,Wind,0.39069113478440437,False
+2018,region_share_of_tech,ER,Wind,0.0,False
+2018,region_share_of_tech,NER,Wind,0.0,False
+2018,region_share_of_tech,NR,Wind,0.12588259760344694,False
+2018,region_share_of_tech,SR,Wind,0.4957642930578459,False
+2018,region_share_of_tech,WR,Wind,0.3783531093387072,False
+2019,region_share_of_tech,ER,Wind,0.0,False
+2019,region_share_of_tech,NER,Wind,0.0,False
+2019,region_share_of_tech,NR,Wind,0.12070517749448581,False
+2019,region_share_of_tech,SR,Wind,0.503481728958805,False
+2019,region_share_of_tech,WR,Wind,0.3758130935467091,False
+2020,region_share_of_tech,ER,Wind,0.0,False
+2020,region_share_of_tech,NER,Wind,0.0,False
+2020,region_share_of_tech,NR,Wind,0.11393170806675774,False
+2020,region_share_of_tech,SR,Wind,0.48697026586238007,False
+2020,region_share_of_tech,WR,Wind,0.3990980260708622,False
+2021,region_share_of_tech,ER,Wind,0.0,False
+2021,region_share_of_tech,NER,Wind,0.0,False
+2021,region_share_of_tech,NR,Wind,0.11025781832312974,False
+2021,region_share_of_tech,SR,Wind,0.4799329812513139,False
+2021,region_share_of_tech,WR,Wind,0.4098092004255563,False
+2022,region_share_of_tech,ER,Wind,0.0,False
+2022,region_share_of_tech,NER,Wind,0.0,False
+2022,region_share_of_tech,NR,Wind,0.10722350203007042,False
+2022,region_share_of_tech,SR,Wind,0.4778922555985536,False
+2022,region_share_of_tech,WR,Wind,0.414884242371376,False
+2023,region_share_of_tech,ER,Wind,0.0028553986602951756,False
+2023,region_share_of_tech,NER,Wind,4.889730627997961e-05,False
+2023,region_share_of_tech,NR,Wind,0.10970314843510083,False
+2023,region_share_of_tech,SR,Wind,0.4714452101405663,False
+2023,region_share_of_tech,WR,Wind,0.4159473454577575,False
+2024,region_share_of_tech,ER,Wind,0.0027701936686084267,False
+2024,region_share_of_tech,NER,Wind,4.743821244729588e-05,False
+2024,region_share_of_tech,NR,Wind,0.10642961049435785,False
+2024,region_share_of_tech,SR,Wind,0.4612681308986081,False
+2024,region_share_of_tech,WR,Wind,0.4294846267259783,False
+2025,region_share_of_tech,ER,Wind,0.0029346089625026583,True
+2025,region_share_of_tech,NER,Wind,4.460212357695197e-05,True
+2025,region_share_of_tech,NR,Wind,0.10006672668769175,True
+2025,region_share_of_tech,SR,Wind,0.44987304019417296,True
+2025,region_share_of_tech,WR,Wind,0.44708102203205563,True
+2007,tech_share_of_national_RE,India,Other RE,0.305109857880517,False
+2008,tech_share_of_national_RE,India,Other RE,0.29041422876287065,False
+2009,tech_share_of_national_RE,India,Other RE,0.2774221306850243,False
+2010,tech_share_of_national_RE,India,Other RE,0.2924547589544292,False
+2011,tech_share_of_national_RE,India,Other RE,0.28683245764138593,False
+2012,tech_share_of_national_RE,India,Other RE,0.2630725378415569,False
+2013,tech_share_of_national_RE,India,Other RE,0.25864482597711874,False
+2014,tech_share_of_national_RE,India,Other RE,0.2464981686631003,False
+2015,tech_share_of_national_RE,India,Other RE,0.23765015233984124,False
+2016,tech_share_of_national_RE,India,Other RE,0.21338866632933134,False
+2017,tech_share_of_national_RE,India,Other RE,0.22016933743446793,False
+2018,tech_share_of_national_RE,India,Other RE,0.1989130712666645,False
+2019,tech_share_of_national_RE,India,Other RE,0.18532837617837378,False
+2020,tech_share_of_national_RE,India,Other RE,0.16894251647394362,False
+2021,tech_share_of_national_RE,India,Other RE,0.16007343999309565,False
+2022,tech_share_of_national_RE,India,Other RE,0.1414634808359859,False
+2023,tech_share_of_national_RE,India,Other RE,0.14195789317816915,False
+2024,tech_share_of_national_RE,India,Other RE,0.102998267502736,False
+2025,tech_share_of_national_RE,India,Other RE,0.09545927171008017,True
+2007,region_share_of_tech,ER,Other RE,0.06563790829115489,False
+2007,region_share_of_tech,NER,Other RE,0.04418226226277631,False
+2007,region_share_of_tech,NR,Other RE,0.23861823713864813,False
+2007,region_share_of_tech,SR,Other RE,0.4988237106552877,False
+2007,region_share_of_tech,WR,Other RE,0.15273788165213292,False
+2008,region_share_of_tech,ER,Other RE,0.06401891539429926,False
+2008,region_share_of_tech,NER,Other RE,0.04769271122877996,False
+2008,region_share_of_tech,NR,Other RE,0.24280777755762695,False
+2008,region_share_of_tech,SR,Other RE,0.4866564476934602,False
+2008,region_share_of_tech,WR,Other RE,0.15882414812583356,False
+2009,region_share_of_tech,ER,Other RE,0.05835227474969362,False
+2009,region_share_of_tech,NER,Other RE,0.04347118616488439,False
+2009,region_share_of_tech,NR,Other RE,0.2677019612628967,False
+2009,region_share_of_tech,SR,Other RE,0.4650384676012794,False
+2009,region_share_of_tech,WR,Other RE,0.1654361102212459,False
+2010,region_share_of_tech,ER,Other RE,0.05870445344129555,False
+2010,region_share_of_tech,NER,Other RE,0.04420614946930736,False
+2010,region_share_of_tech,NR,Other RE,0.3065352802194907,False
+2010,region_share_of_tech,SR,Other RE,0.43491467175677695,False
+2010,region_share_of_tech,WR,Other RE,0.15563944511312933,False
+2011,region_share_of_tech,ER,Other RE,0.05421065080463597,False
+2011,region_share_of_tech,NER,Other RE,0.03921998055207576,False
+2011,region_share_of_tech,NR,Other RE,0.3008418673511402,False
+2011,region_share_of_tech,SR,Other RE,0.42484603726642794,False
+2011,region_share_of_tech,WR,Other RE,0.1808814640257203,False
+2012,region_share_of_tech,ER,Other RE,0.0520483381465273,False
+2012,region_share_of_tech,NER,Other RE,0.03490765098780215,False
+2012,region_share_of_tech,NR,Other RE,0.30114261039466145,False
+2012,region_share_of_tech,SR,Other RE,0.41498562166764164,False
+2012,region_share_of_tech,WR,Other RE,0.1969157788033675,False
+2013,region_share_of_tech,ER,Other RE,0.05310300969128891,False
+2013,region_share_of_tech,NER,Other RE,0.034928732390471846,False
+2013,region_share_of_tech,NR,Other RE,0.3061410421246181,False
+2013,region_share_of_tech,SR,Other RE,0.39747971188807324,False
+2013,region_share_of_tech,WR,Other RE,0.20834750390554796,False
+2014,region_share_of_tech,ER,Other RE,0.04388313096633191,False
+2014,region_share_of_tech,NER,Other RE,0.03301461441786095,False
+2014,region_share_of_tech,NR,Other RE,0.29973770972609387,False
+2014,region_share_of_tech,SR,Other RE,0.39742186283980996,False
+2014,region_share_of_tech,WR,Other RE,0.2259426820499033,False
+2015,region_share_of_tech,ER,Other RE,0.045393395264529283,False
+2015,region_share_of_tech,NER,Other RE,0.030369651825837396,False
+2015,region_share_of_tech,NR,Other RE,0.30566845096484274,False
+2015,region_share_of_tech,SR,Other RE,0.3966593973037272,False
+2015,region_share_of_tech,WR,Other RE,0.22190910464106342,False
+2016,region_share_of_tech,ER,Other RE,0.04224799858536312,False
+2016,region_share_of_tech,NER,Other RE,0.028375111616826713,False
+2016,region_share_of_tech,NR,Other RE,0.29738347093459394,False
+2016,region_share_of_tech,SR,Other RE,0.4028101629797876,False
+2016,region_share_of_tech,WR,Other RE,0.22918325588342867,False
+2017,region_share_of_tech,ER,Other RE,0.0603937246697666,False
+2017,region_share_of_tech,NER,Other RE,0.020964736095886106,False
+2017,region_share_of_tech,NR,Other RE,0.3099302077686149,False
+2017,region_share_of_tech,SR,Other RE,0.3717751841529363,False
+2017,region_share_of_tech,WR,Other RE,0.23693614731279608,False
+2018,region_share_of_tech,ER,Other RE,0.05775544553097132,False
+2018,region_share_of_tech,NER,Other RE,0.019650628220800423,False
+2018,region_share_of_tech,NR,Other RE,0.32057131593141386,False
+2018,region_share_of_tech,SR,Other RE,0.37446523069902515,False
+2018,region_share_of_tech,WR,Other RE,0.22755737961778935,False
+2019,region_share_of_tech,ER,Other RE,0.05512699374283673,False
+2019,region_share_of_tech,NER,Other RE,0.02068606187417168,False
+2019,region_share_of_tech,NR,Other RE,0.31072029398122786,False
+2019,region_share_of_tech,SR,Other RE,0.3676963866415526,False
+2019,region_share_of_tech,WR,Other RE,0.24577026376021127,False
+2020,region_share_of_tech,ER,Other RE,0.05439096104206957,False
+2020,region_share_of_tech,NER,Other RE,0.020409870176497955,False
+2020,region_share_of_tech,NR,Other RE,0.31023342662782577,False
+2020,region_share_of_tech,SR,Other RE,0.37070892934370187,False
+2020,region_share_of_tech,WR,Other RE,0.24425681280990502,False
+2021,region_share_of_tech,ER,Other RE,0.05414704131506391,False
+2021,region_share_of_tech,NER,Other RE,0.0197221729050046,False
+2021,region_share_of_tech,NR,Other RE,0.3177237812265018,False
+2021,region_share_of_tech,SR,Other RE,0.3640674607318907,False
+2021,region_share_of_tech,WR,Other RE,0.244339543821539,False
+2022,region_share_of_tech,ER,Other RE,0.05467875755090058,False
+2022,region_share_of_tech,NER,Other RE,0.01945431342981832,False
+2022,region_share_of_tech,NR,Other RE,0.31891552906847226,False
+2022,region_share_of_tech,SR,Other RE,0.3626499073481482,False
+2022,region_share_of_tech,WR,Other RE,0.2443014926026607,False
+2023,region_share_of_tech,ER,Other RE,0.054126382079722826,False
+2023,region_share_of_tech,NER,Other RE,0.022420663265952323,False
+2023,region_share_of_tech,NR,Other RE,0.3163812691562355,False
+2023,region_share_of_tech,SR,Other RE,0.36189165201217466,False
+2023,region_share_of_tech,WR,Other RE,0.24518003348591477,False
+2024,region_share_of_tech,ER,Other RE,0.05324323496772062,False
+2024,region_share_of_tech,NER,Other RE,0.032415573947904494,False
+2024,region_share_of_tech,NR,Other RE,0.31256744839238143,False
+2024,region_share_of_tech,SR,Other RE,0.3575637519190909,False
+2024,region_share_of_tech,WR,Other RE,0.24420999077290276,False
+2025,region_share_of_tech,ER,Other RE,0.05453688228334743,True
+2025,region_share_of_tech,NER,Other RE,0.03262926113671646,True
+2025,region_share_of_tech,NR,Other RE,0.3135442512669952,True
+2025,region_share_of_tech,SR,Other RE,0.35680152278916866,True
+2025,region_share_of_tech,WR,Other RE,0.24248808252377235,True
+2007,fleet_index,India,All RE,0.06584151584066399,False
+2008,fleet_index,India,All RE,0.07959240995369482,False
+2009,fleet_index,India,All RE,0.09141110603903489,False
+2010,fleet_index,India,All RE,0.10880027395873482,False
+2011,fleet_index,India,All RE,0.12829734680573845,False
+2012,fleet_index,India,All RE,0.1600581541680104,False
+2013,fleet_index,India,All RE,0.18031378393758857,False
+2014,fleet_index,India,All RE,0.20333755007409338,False
+2015,fleet_index,India,All RE,0.22990187178130236,False
+2016,fleet_index,India,All RE,0.27510328909511556,False
+2017,fleet_index,India,All RE,0.36786064830400644,False
+2018,fleet_index,India,All RE,0.4489157276242146,False
+2019,fleet_index,India,All RE,0.5047947765807647,False
+2020,fleet_index,India,All RE,0.5612487555907439,False
+2021,fleet_index,India,All RE,0.6170847347619749,False
+2022,fleet_index,India,All RE,0.7078782922923469,False
+2023,fleet_index,India,All RE,0.7137166199253333,False
+2024,fleet_index,India,All RE,1.0,False
+2025,fleet_index,India,All RE,1.0892979141021564,True

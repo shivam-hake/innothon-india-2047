@@ -1,0 +1,13 @@
+scenario,component,TWh
+Low,FY2024 actual,1698.0300000000002
+Low,Population (CSV trend),380.1216677817135
+Low,"Generation per person (income, CSV GSDP)",1815.8036970572573
+Low,FY2047 forecast,3893.95536483897
+Base,FY2024 actual,1698.0300000000002
+Base,Population (CSV trend),427.38259461152154
+Base,"Generation per person (income, CSV GSDP)",2646.245140951393
+Base,FY2047 forecast,4771.657735562914
+High,FY2024 actual,1698.0300000000002
+High,Population (CSV trend),467.0263618737938
+High,"Generation per person (income, CSV GSDP)",3380.0272787465246
+High,FY2047 forecast,5545.083640620321

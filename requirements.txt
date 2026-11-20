@@ -1,0 +1,11 @@
+# Python 3.11-3.13. Minimum versions the code needs; pip picks the newest wheel for your Python.
+numpy>=1.26,<3
+pandas>=2.2,<4
+scipy>=1.11
+statsmodels>=0.14.2
+plotly>=5.22
+streamlit>=1.50
+shapely>=2.0
+matplotlib>=3.8
+tabulate>=0.9
+pytest>=8.0

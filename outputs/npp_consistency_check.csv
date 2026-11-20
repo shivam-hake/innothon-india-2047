@@ -1,0 +1,55 @@
+FY,item,a_source,a,b_source,b,diff_pct
+2019,Thermal,NPP history endpoint,1072.311,NPP 18-col sub-report 2 (region-wise),1072.2238800000002,0.008125168784678394
+2019,Hydro,NPP history endpoint,134.894,NPP 18-col sub-report 2 (region-wise),134.89361,0.00028911673430886964
+2019,Nuclear,NPP history endpoint,37.813,NPP 18-col sub-report 2 (region-wise),37.81259,0.0010842949398570667
+2020,Thermal,NPP history endpoint,1042.748,NPP 18-col sub-report 2 (region-wise),1042.74786,1.3426064482402467e-05
+2020,Hydro,NPP history endpoint,155.769,NPP 18-col sub-report 2 (region-wise),155.76912,-7.70370918057317e-05
+2020,Nuclear,NPP history endpoint,46.472449999999995,NPP 18-col sub-report 2 (region-wise),46.472449999999995,0.0
+2021,Thermal,NPP history endpoint,1032.514,NPP 18-col sub-report 2 (region-wise),1032.5135400000001,4.455147384341274e-05
+2021,Hydro,NPP history endpoint,150.3,NPP 18-col sub-report 2 (region-wise),150.29952,0.0003193622973629573
+2021,Nuclear,NPP history endpoint,43.02908,NPP 18-col sub-report 2 (region-wise),43.02908,0.0
+2022,Thermal,NPP history endpoint,1114.714,NPP 18-col sub-report 2 (region-wise),1114.71448,-4.3060353904778026e-05
+2022,Hydro,NPP history endpoint,151.627,NPP 18-col sub-report 2 (region-wise),151.62733,-0.00021763886496328766
+2022,Nuclear,NPP history endpoint,47.11206,NPP 18-col sub-report 2 (region-wise),47.11206,0.0
+2023,Thermal,NPP history endpoint,1206.211,NPP 18-col sub-report 2 (region-wise),1206.21067,2.7358404985911022e-05
+2023,Hydro,NPP history endpoint,162.099,NPP 18-col sub-report 2 (region-wise),162.09877,0.00014188880026466677
+2023,Nuclear,NPP history endpoint,45.861,NPP 18-col sub-report 2 (region-wise),45.861090000000004,-0.0001962447905290432
+2024,Thermal,NPP history endpoint,1326.549,NPP 18-col sub-report 2 (region-wise),1326.54893,5.276850223445706e-06
+2024,Hydro,NPP history endpoint,134.054,NPP 18-col sub-report 2 (region-wise),134.05392,5.9677479025133096e-05
+2024,Nuclear,NPP history endpoint,47.937,NPP 18-col sub-report 2 (region-wise),47.93740999999999,-0.0008552819186435912
+2019,Thermal,NPP 18-col sub-report 16 (state/station-wise),1070.82355,NPP 18-col sub-report 2 (region-wise),1072.2238800000002,-0.13060052346531847
+2019,Hydro,NPP 18-col sub-report 16 (state/station-wise),134.89361,NPP 18-col sub-report 2 (region-wise),134.89361,0.0
+2019,Nuclear,NPP 18-col sub-report 16 (state/station-wise),37.81259,NPP 18-col sub-report 2 (region-wise),37.81259,0.0
+2020,Thermal,NPP 18-col sub-report 16 (state/station-wise),1042.7478600000002,NPP 18-col sub-report 2 (region-wise),1042.74786,2.220446049250313e-14
+2020,Hydro,NPP 18-col sub-report 16 (state/station-wise),155.76912,NPP 18-col sub-report 2 (region-wise),155.76912,0.0
+2020,Nuclear,NPP 18-col sub-report 16 (state/station-wise),46.472449999999995,NPP 18-col sub-report 2 (region-wise),46.472449999999995,0.0
+2021,Thermal,NPP 18-col sub-report 16 (state/station-wise),1032.5135400000001,NPP 18-col sub-report 2 (region-wise),1032.5135400000001,0.0
+2021,Hydro,NPP 18-col sub-report 16 (state/station-wise),150.29952,NPP 18-col sub-report 2 (region-wise),150.29952,0.0
+2021,Nuclear,NPP 18-col sub-report 16 (state/station-wise),43.02908,NPP 18-col sub-report 2 (region-wise),43.02908,0.0
+2022,Thermal,NPP 18-col sub-report 16 (state/station-wise),1114.7144799999999,NPP 18-col sub-report 2 (region-wise),1114.71448,-2.220446049250313e-14
+2022,Hydro,NPP 18-col sub-report 16 (state/station-wise),151.62733,NPP 18-col sub-report 2 (region-wise),151.62733,0.0
+2022,Nuclear,NPP 18-col sub-report 16 (state/station-wise),47.11206,NPP 18-col sub-report 2 (region-wise),47.11206,0.0
+2023,Thermal,NPP 18-col sub-report 16 (state/station-wise),1206.21067,NPP 18-col sub-report 2 (region-wise),1206.21067,0.0
+2023,Hydro,NPP 18-col sub-report 16 (state/station-wise),162.09877,NPP 18-col sub-report 2 (region-wise),162.09877,0.0
+2023,Nuclear,NPP 18-col sub-report 16 (state/station-wise),45.861090000000004,NPP 18-col sub-report 2 (region-wise),45.861090000000004,0.0
+2024,Thermal,NPP 18-col sub-report 16 (state/station-wise),1326.54893,NPP 18-col sub-report 2 (region-wise),1326.54893,0.0
+2024,Hydro,NPP 18-col sub-report 16 (state/station-wise),134.05392,NPP 18-col sub-report 2 (region-wise),134.05392,0.0
+2024,Nuclear,NPP 18-col sub-report 16 (state/station-wise),47.93740999999999,NPP 18-col sub-report 2 (region-wise),47.93740999999999,0.0
+2025,Thermal,NPP 18-col sub-report 16 (state/station-wise),1363.88976,NPP 18-col sub-report 2 (region-wise),1363.8897599999998,2.220446049250313e-14
+2025,Hydro,NPP 18-col sub-report 16 (state/station-wise),148.63397999999998,NPP 18-col sub-report 2 (region-wise),148.63397999999998,0.0
+2025,Nuclear,NPP 18-col sub-report 16 (state/station-wise),56.68083,NPP 18-col sub-report 2 (region-wise),56.68083,0.0
+2026,Thermal,NPP 18-col sub-report 16 (state/station-wise),1307.13061,NPP 18-col sub-report 2 (region-wise),1307.13061,0.0
+2026,Hydro,NPP 18-col sub-report 16 (state/station-wise),167.20378,NPP 18-col sub-report 2 (region-wise),167.20378,0.0
+2026,Nuclear,NPP 18-col sub-report 16 (state/station-wise),55.19052000000001,NPP 18-col sub-report 2 (region-wise),55.19052000000001,0.0
+2019,Gas,NPP DGR17 fuel-wise (31 Mar cumulative),50.027049999999996,NPP 18-col sub-report 16 (state/station-wise),49.833749999999995,0.38788973336343346
+2019,Coal + lignite,NPP DGR17 fuel-wise (31 Mar cumulative),1021.82687,NPP 18-col sub-report 16 (state/station-wise),1020.9898000000001,0.08198612757932544
+2021,Gas,NPP DGR17 fuel-wise (31 Mar cumulative),51.1542,NPP 18-col sub-report 16 (state/station-wise),50.944,0.4126099246231085
+2021,Coal + lignite,NPP DGR17 fuel-wise (31 Mar cumulative),980.97568,NPP 18-col sub-report 16 (state/station-wise),981.5695400000001,-0.06050106241072273
+2022,Gas,NPP DGR17 fuel-wise (31 Mar cumulative),36.258900000000004,NPP 18-col sub-report 16 (state/station-wise),36.01577,0.6750653949644914
+2022,Coal + lignite,NPP DGR17 fuel-wise (31 Mar cumulative),1078.44533,NPP 18-col sub-report 16 (state/station-wise),1078.69871,-0.02348941346188571
+2023,Gas,NPP DGR17 fuel-wise (31 Mar cumulative),24.160109999999996,NPP 18-col sub-report 16 (state/station-wise),23.885040000000004,1.1516413621245336
+2023,Coal + lignite,NPP DGR17 fuel-wise (31 Mar cumulative),1181.8680299999999,NPP 18-col sub-report 16 (state/station-wise),1182.32563,-0.038703381571802975
+2024,Gas,NPP DGR17 fuel-wise (31 Mar cumulative),31.70323,NPP 18-col sub-report 16 (state/station-wise),31.29594,1.301414816107127
+2024,Coal + lignite,NPP DGR17 fuel-wise (31 Mar cumulative),1294.07171,NPP 18-col sub-report 16 (state/station-wise),1295.25299,-0.0912007159311834
+2025,Gas,NPP DGR17 fuel-wise (31 Mar cumulative),31.78258,NPP 18-col sub-report 16 (state/station-wise),31.58005,0.6413226071523059
+2025,Coal + lignite,NPP DGR17 fuel-wise (31 Mar cumulative),1331.5880399999999,NPP 18-col sub-report 16 (state/station-wise),1332.30971,-0.054166834827029664

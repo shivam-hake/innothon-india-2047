@@ -1,0 +1,99 @@
+report_year,region,category,fy_actual_gwh,prev_fy_actual_gwh,source_url
+2020,NORTHERN,THERMAL,212420.65,226869.7,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,NORTHERN,NUCLEAR,12242.87,11196.17,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,NORTHERN,HYDRO,80556.95,72401.41,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,WESTERN,THERMAL,445917.79,449481.46,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,WESTERN,NUCLEAR,13965.03,11766.35,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,WESTERN,HYDRO,17813.79,9759.42,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,SOUTHERN,THERMAL,197128.17,210540.18,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,SOUTHERN,NUCLEAR,20264.55,14850.07,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,SOUTHERN,HYDRO,31754.02,28807.04,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,EASTERN,THERMAL,174449.62,173171.07,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,EASTERN,HYDRO,20823.47,18900.31,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,NORTH EASTERN,THERMAL,12831.63,12161.47,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,NORTH EASTERN,HYDRO,4820.89,5025.43,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2020,BHUTAN IMP.,BHUTAN,5794.48,4406.62,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2020/MAR/18_col_act-2_2020-MAR.xls
+2021,NORTHERN,THERMAL,207216.13,212420.65,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,NORTHERN,NUCLEAR,10670.86,12242.87,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,NORTHERN,HYDRO,75233.86,80556.95,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,WESTERN,THERMAL,457777.54,445917.79,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,WESTERN,NUCLEAR,11599.58,13965.03,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,WESTERN,HYDRO,16678.34,17813.79,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,SOUTHERN,THERMAL,165632.39,197128.17,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,SOUTHERN,NUCLEAR,20758.64,20264.55,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,SOUTHERN,HYDRO,31353.95,31754.02,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,EASTERN,THERMAL,189146.13,174449.62,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,EASTERN,HYDRO,21174.84,20823.47,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,NORTH EASTERN,THERMAL,12741.35,12831.63,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,NORTH EASTERN,HYDRO,5858.53,4820.89,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2021,BHUTAN IMP.,BHUTAN,8765.5,5794.48,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2021/MAR/18_col_act-2_2021-MAR.xls
+2022,NORTHERN,THERMAL,236059.27,207216.13,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,NORTHERN,NUCLEAR,11889.1,10670.86,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,NORTHERN,HYDRO,73866.02,75233.86,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,WESTERN,THERMAL,450037.7,457777.54,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,WESTERN,NUCLEAR,12105.65,11599.58,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,WESTERN,HYDRO,13719.74,16678.34,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,SOUTHERN,THERMAL,198910.29,165632.39,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,SOUTHERN,NUCLEAR,23117.31,20758.64,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,SOUTHERN,HYDRO,37206.43,31353.95,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,EASTERN,THERMAL,215774.42,189146.13,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,EASTERN,HYDRO,20462.33,21174.84,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,NORTH EASTERN,THERMAL,13932.8,12741.35,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,NORTH EASTERN,HYDRO,6372.81,5858.53,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2022,BHUTAN IMP.,BHUTAN,7493.2,8765.5,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2022/MAR/18_col_act-2_2022-MAR.xls
+2023,NORTHERN,THERMAL,276911.67,236059.27,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,NORTHERN,NUCLEAR,9779.89,11889.1,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,NORTHERN,HYDRO,77624.07,73866.02,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,WESTERN,THERMAL,460826.32,450037.7,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,WESTERN,NUCLEAR,12625.39,12105.65,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,WESTERN,HYDRO,19573.87,13719.74,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,SOUTHERN,THERMAL,214625.87,198910.29,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,SOUTHERN,NUCLEAR,23455.81,23117.31,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,SOUTHERN,HYDRO,36869.76,37206.43,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,EASTERN,THERMAL,238374.25,215774.42,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,EASTERN,HYDRO,20888.8,20462.33,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,NORTH EASTERN,THERMAL,15472.56,13932.8,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,NORTH EASTERN,HYDRO,7142.27,6372.81,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2023,BHUTAN IMP.,BHUTAN,6742.4,7493.2,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2023/MAR/18_col_act-2_2023-MAR.xls
+2024,NORTHERN,THERMAL,280772.62,276911.67,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,NORTHERN,NUCLEAR,9934.3,9779.89,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,NORTHERN,HYDRO,73088.83,77624.07,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,WESTERN,THERMAL,532746.78,460826.32,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,WESTERN,NUCLEAR,15689.24,12625.39,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,WESTERN,HYDRO,16587.36,19573.87,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,SOUTHERN,THERMAL,248246.67,214625.87,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,SOUTHERN,NUCLEAR,22313.87,23455.81,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,SOUTHERN,HYDRO,20308.65,36869.76,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,EASTERN,THERMAL,249996.17,238374.25,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,EASTERN,HYDRO,17785.34,20888.8,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,NORTH EASTERN,THERMAL,14786.69,15472.56,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,NORTH EASTERN,HYDRO,6283.74,7142.27,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2024,BHUTAN IMP.,BHUTAN,4716.1,6742.4,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2024/MAR/18_col_act-2_2024-MAR.xls
+2025,NORTHERN,THERMAL,297306.93,280772.62,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,NORTHERN,NUCLEAR,11060.43,9934.3,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,NORTHERN,HYDRO,76489.47,73088.83,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,WESTERN,THERMAL,542523.63,532746.78,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,WESTERN,NUCLEAR,20768.99,15689.24,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,WESTERN,HYDRO,19689.91,16587.36,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,SOUTHERN,THERMAL,249013.27,248246.67,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,SOUTHERN,NUCLEAR,24851.41,22313.87,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,SOUTHERN,HYDRO,33966.57,20308.65,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,EASTERN,THERMAL,261751.09,249996.17,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,EASTERN,HYDRO,11216.85,17785.34,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,NORTH EASTERN,THERMAL,13294.84,14786.69,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,NORTH EASTERN,HYDRO,7271.18,6283.74,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2025,BHUTAN IMP.,BHUTAN,5484.18,4716.1,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2025/MAR/18_col_act-2_2025-MAR.xls
+2026,NORTHERN,THERMAL,283927.65,297306.93,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,NORTHERN,NUCLEAR,13587.86,11060.43,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,NORTHERN,HYDRO,82627.22,76489.47,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,WESTERN,THERMAL,510672.36,542523.63,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,WESTERN,NUCLEAR,20171.84,20768.99,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,WESTERN,HYDRO,20296.28,19689.91,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,SOUTHERN,THERMAL,242941.04,249013.27,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,SOUTHERN,NUCLEAR,21430.82,24851.41,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,SOUTHERN,HYDRO,43443.07,33966.57,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,EASTERN,THERMAL,257394.03,260930.52,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,EASTERN,HYDRO,12610.67,11216.85,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,NORTH EASTERN,THERMAL,12195.53,13294.84,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,NORTH EASTERN,HYDRO,8226.54,7271.18,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls
+2026,BHUTAN IMP.,BHUTAN,7831.24,5484.18,https://npp.gov.in/public-reports/cea/monthly/generation/18_col_act//2026/MAR/18_col_act-2_2026-MAR.xls

@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+deck/node_modules/
+*.pyc
+.ipynb_checkpoints/

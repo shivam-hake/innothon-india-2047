@@ -1,0 +1,44 @@
+panel,family,param,MAE_pp,weight,train_end,test
+L1 national sources (NPP),const,1,1.4174853760098347,0.3325654628198104,2018,2019-2024
+L1 national sources (NPP),const,3,1.6938997504874074,0.0,2018,2019-2024
+L1 national sources (NPP),logit,2007,1.2302776190392324,0.38317097931210187,2018,2019-2024
+L1 national sources (NPP),logit,2010,1.7307440443819069,0.0,2018,2019-2024
+L1 national sources (NPP),logit,2013,1.6052003329574935,0.0,2018,2019-2024
+L1 national sources (NPP),incr,5,1.7300617215233418,0.0,2018,2019-2024
+L1 national sources (NPP),incr,8,1.848725658127553,0.0,2018,2019-2024
+L1 national sources (NPP),incr,10,1.6583436992362546,0.2842635578680877,2018,2019-2024
+L2a coal vs gas (NPP sub-16),const,1,1.0694618281350659,0.39690191746874215,2022,2023-2026
+L2a coal vs gas (NPP sub-16),const,3,2.108717780732579,0.0,2022,2023-2026
+L2a coal vs gas (NPP sub-16),logit,2019,0.7038182719216888,0.6030980825312579,2022,2023-2026
+L2b solar/wind/other in RES (CSV composition),const,1,8.448292464366144,0.14569666261858508,2019,2020-2024
+L2b solar/wind/other in RES (CSV composition),const,3,12.770627495761127,0.0,2019,2020-2024
+L2b solar/wind/other in RES (CSV composition),logit,2007,28.761204182223416,0.0,2019,2020-2024
+L2b solar/wind/other in RES (CSV composition),logit,2012,10.372573864872276,0.0,2019,2020-2024
+L2b solar/wind/other in RES (CSV composition),logit,2016,10.29830643003411,0.11952334349792813,2019,2020-2024
+L2b solar/wind/other in RES (CSV composition),incr,3,1.6751790020552322,0.7347799938834867,2019,2020-2024
+L2b solar/wind/other in RES (CSV composition),incr,5,5.4157405774052085,0.0,2019,2020-2024
+L2b solar/wind/other in RES (CSV composition),incr,8,8.43736043438006,0.0,2019,2020-2024
+L3 regional share of Coal (NPP sub-16),const,1,0.758295007188797,0.0,2023,2024-2026
+L3 regional share of Coal (NPP sub-16),const,3,0.6922447917171121,0.7125874100061467,2023,2024-2026
+L3 regional share of Coal (NPP sub-16),logit,2019,1.7162954595360311,0.28741258999385333,2023,2024-2026
+L3 regional share of Gas (NPP sub-16),const,1,8.657187449251742,0.0,2023,2024-2026
+L3 regional share of Gas (NPP sub-16),const,3,2.487817012864209,0.7983759478526132,2023,2024-2026
+L3 regional share of Gas (NPP sub-16),logit,2019,9.851073046966654,0.20162405214738666,2023,2024-2026
+L3 regional share of Hydro (NPP sub-16),const,1,2.437311626264478,0.5633117871635483,2023,2024-2026
+L3 regional share of Hydro (NPP sub-16),const,3,2.6238889036374005,0.0,2023,2024-2026
+L3 regional share of Hydro (NPP sub-16),logit,2019,3.144042654935915,0.4366882128364517,2023,2024-2026
+L3 regional share of Nuclear (NPP sub-16),const,1,3.5501397264752184,0.0,2023,2024-2026
+L3 regional share of Nuclear (NPP sub-16),const,3,3.542760251242172,0.6276152389913637,2023,2024-2026
+L3 regional share of Nuclear (NPP sub-16),logit,2019,5.970948745995792,0.37238476100863627,2023,2024-2026
+L3 regional share of Solar (CSV composition),const,1,4.553484258636362,0.0,2019,2020-2024
+L3 regional share of Solar (CSV composition),const,3,4.037477678631831,0.7604051156284023,2019,2020-2024
+L3 regional share of Solar (CSV composition),logit,2012,17.699326901502623,0.0,2019,2020-2024
+L3 regional share of Solar (CSV composition),logit,2016,12.813790616270232,0.23959488437159776,2019,2020-2024
+L3 regional share of Wind (CSV composition),const,1,1.5670392093249257,0.0,2019,2020-2024
+L3 regional share of Wind (CSV composition),const,3,1.3347984489290161,0.3540741232427852,2019,2020-2024
+L3 regional share of Wind (CSV composition),logit,2012,0.7316901327487992,0.6459258767572147,2019,2020-2024
+L3 regional share of Wind (CSV composition),logit,2016,3.5051548495141116,0.0,2019,2020-2024
+L3 regional share of Other RE (CSV composition),const,1,0.31346806469073735,0.7494642383569564,2019,2020-2024
+L3 regional share of Other RE (CSV composition),const,3,0.514258164251989,0.0,2019,2020-2024
+L3 regional share of Other RE (CSV composition),logit,2012,0.9377228337062669,0.25053576164304353,2019,2020-2024
+L3 regional share of Other RE (CSV composition),logit,2016,1.6033106300284694,0.0,2019,2020-2024
